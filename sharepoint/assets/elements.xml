@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction
+        Title="FaviconCustomizer"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ClientSideComponentId="c660a51c-febc-4abd-8516-02eb7ad13405"
+        ClientSideComponentProperties="{&quot;faviconpath&quot;:&quot;https://paniko.sharepoint.com/sites/Development/Shared%20Documents/icons8-beer-48.ico&quot;}">
+    </CustomAction>
+</Elements>
